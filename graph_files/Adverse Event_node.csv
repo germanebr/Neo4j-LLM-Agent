@@ -1,0 +1,1726 @@
+Adverse Event,Adverse Event ID
+Diarrhoea,10012735.0
+Haemorrhage,10055798.0
+Hypertension,10020772.0
+Neutropenia,10029354.0
+Anaemia,10002034.0
+Arthralgia,10003239.0
+Atrial fibrillation,10003658.0
+Contusion,10050584.0
+Drug-induced liver injury,10072268.0
+Headache,10019211.0
+Hepatotoxicity,10019851.0
+Infection,10021789.0
+Lymphocytosis,10025280.0
+Petechiae,10034754.0
+Pneumonia,10035664.0
+Rash,10037844.0
+Thrombocytopenia,10043554.0
+Upper respiratory tract infection,10046306.0
+Abdominal pain,10000081.0
+Alanine aminotransferase increased,10001551.0
+Arrhythmia,10003119.0
+Aspartate aminotransferase increased,10003481.0
+Asthenia,10003549.0
+Atrial flutter,10003662.0
+B-lymphocyte count decreased,10051313.0
+Back pain,10003988.0
+Blood bilirubin increased,10005364.0
+Blood creatinine increased,10005483.0
+Blood immunoglobulin G decreased,10005595.0
+Blood immunoglobulin M decreased,10005600.0
+Bruton's agammaglobulinaemia,10060360.0
+Carcinogenicity,10007269.0
+Cardiac disorder,10061024.0
+Central nervous system haemorrhage,10072043.0
+Constipation,10010774.0
+Cough,10011224.0
+Cytopenia,10066274.0
+Death,10011906.0
+Dizziness,10013573.0
+Dyspnoea,10013968.0
+Ecchymosis,10014080.0
+Encephalitis,10014581.0
+Epistaxis,10015090.0
+Fatigue,10016256.0
+Febrile neutropenia,10016288.0
+Fungal infection,10017533.0
+Haematoma,10018852.0
+Haematuria,10018867.0
+Haemoglobin decreased,10018884.0
+Hepatitis B reactivation,10058827.0
+Hypokalaemia,10021015.0
+Immune system disorder,10021425.0
+Increased tendency to bruise,10021688.0
+Leukopenia,10024384.0
+Lymphocyte count decreased,10025256.0
+Muscle spasms,10028334.0
+Musculoskeletal pain,10028391.0
+Myalgia,10028411.0
+Nasopharyngitis,10028810.0
+Nausea,10028813.0
+Neutrophil count decreased,10029366.0
+Oedema peripheral,10030124.0
+Pancreatic toxicity,10076205.0
+Platelet count decreased,10035528.0
+Pruritus,10037087.0
+Pyrexia,10037660.0
+Second primary malignancy,10039801.0
+Sepsis,10040047.0
+Sinusitis,10040753.0
+Urinary tract infection,10046571.0
+Ventricular arrhythmia,10047281.0
+Vomiting,10047700.0
+Abdominal discomfort,10000059.0
+Abdominal distension,10000060.0
+Abdominal pain upper,10000087.0
+Acute coronary syndrome,10051592.0
+Agranulocytosis,10001507.0
+Alopecia,10001760.0
+Amylase increased,10002016.0
+Anaphylactic reaction,10002198.0
+Angiopathy,10059245.0
+Anxiety,10002855.0
+Arrhythmia supraventricular,10003130.0
+Arthritis,10003246.0
+Arthropathy,10003285.0
+Aspergillus infection,10074171.0
+Bacterial infection,10060945.0
+Basal cell carcinoma,10004146.0
+Bladder cancer,10005003.0
+Blood alkaline phosphatase increased,10059570.0
+Blood calcium decreased,10005395.0
+Blood disorder,10061590.0
+Blood glucose increased,10005557.0
+Blood phosphorus decreased,10049471.0
+Blood potassium decreased,10005724.0
+Blood potassium increased,10005725.0
+Blood uric acid increased,10005861.0
+Bone pain,10006002.0
+Bronchiolitis,10006448.0
+Bronchitis,10006451.0
+Bronchopulmonary aspergillosis,10006473.0
+Candida infection,10074170.0
+Cardiac failure,10007554.0
+Cardiotoxicity,10048610.0
+Cardiovascular disorder,10007649.0
+Cataract,10007739.0
+Cellulitis,10007882.0
+Cerebral haemorrhage,10008111.0
+Cerebrovascular accident,10008190.0
+Chest pain,10008479.0
+Chills,10008531.0
+Colitis,10009887.0
+Condition aggravated,10010264.0
+Conjunctival haemorrhage,10010719.0
+Conjunctivitis,10010741.0
+COVID-19,10084268.0
+COVID-19 pneumonia,10084380.0
+Cystitis,10011781.0
+Cytomegalovirus infection,10011831.0
+Decreased appetite,10061428.0
+Dermatitis,10012431.0
+Dermatitis acneiform,10012432.0
+Dermatitis allergic,10012434.0
+Drug eruption,10013687.0
+Drug hypersensitivity,10013700.0
+Drug interaction,10013710.0
+Dry eye,10013774.0
+Dry mouth,10013781.0
+Dry skin,10013786.0
+Dysgeusia,10013911.0
+Dyspepsia,10013946.0
+Erythema,10015150.0
+Exposure via breast milk,10080751.0
+Eye haemorrhage,10015926.0
+Fall,10016173.0
+Foetal damage,10016852.0
+Foetal death,10055690.0
+Foetal disorder,10061157.0
+Foetal malformation,10060919.0
+Foetal weight decreased,1000000108.0
+Folliculitis,10016936.0
+Gait disturbance,10017577.0
+Gamma-glutamyltransferase increased,10017693.0
+Gastritis,10017853.0
+Gastroenteritis,10017888.0
+Gastrointestinal disorder,10017944.0
+Gastrointestinal haemorrhage,10017955.0
+Gastrointestinal inflammation,10064147.0
+Gastrooesophageal reflux disease,10017885.0
+Haemarthrosis,10018829.0
+Haemoptysis,10018964.0
+Haemorrhage intracranial,10018985.0
+Haemorrhage subcutaneous,10018999.0
+Haemothorax,10019027.0
+Hepatic function abnormal,10019670.0
+Herpes virus infection,10019973.0
+Herpes zoster,10019974.0
+Humoral immune defect,10020464.0
+Hyperglycaemia,10020635.0
+Hypertriglyceridaemia,10020869.0
+Hyperuricaemia,10020903.0
+Hypoalbuminaemia,10020942.0
+Hypogammaglobulinaemia,10020983.0
+Hyponatraemia,10021036.0
+Hypophosphataemia,10021058.0
+Immune thrombocytopenia,10083842.0
+Immunodeficiency,10061598.0
+Immunodeficiency congenital,10021450.0
+Influenza,10022000.0
+Insomnia,10022437.0
+Interstitial lung disease,10022611.0
+Laboratory test abnormal,10023547.0
+Laryngitis,10023874.0
+Lethargy,10024264.0
+Leukocytosis,10024378.0
+Lipase increased,10024574.0
+Liver disorder,10024670.0
+Lower respiratory tract infection,10024968.0
+Lung infiltration,10025102.0
+Lung neoplasm malignant,10058467.0
+Lymphocyte count increased,10025258.0
+Lymphopenia,10025327.0
+Malaise,10025482.0
+Malignant melanoma,10025650.0
+Memory impairment,10027175.0
+Mouth haemorrhage,10028024.0
+Mouth ulceration,10028034.0
+Musculoskeletal chest pain,10050819.0
+Musculoskeletal discomfort,10053156.0
+Myelodysplastic syndrome,10028533.0
+Myelosuppression,10028584.0
+Myocardial ischaemia,10028600.0
+Nasal congestion,10028735.0
+Neck pain,10028836.0
+Neoplasm,10028980.0
+Neoplasm malignant,10028997.0
+Neuropathy peripheral,10029331.0
+Neutropenic infection,10059482.0
+Neutropenic sepsis,10049151.0
+Oedema,10030095.0
+Opportunistic infection,10030901.0
+Oral herpes,10067152.0
+Oropharyngeal pain,10068319.0
+Orthostatic hypotension,10031127.0
+Pain in extremity,10033425.0
+Palpitations,10033557.0
+Pancreatitis,10033645.0
+Panniculitis,10033675.0
+Pharyngitis,10034835.0
+Photosensitivity reaction,10034972.0
+Platelet adhesiveness decreased,10035514.0
+Platelet dysfunction,10073391.0
+Pleural effusion,10035598.0
+Pneumocystis jirovecii pneumonia,10073755.0
+Pneumonia aspiration,10035669.0
+Pneumonia fungal,10061354.0
+Pneumonia viral,10035737.0
+Pneumonitis,10035742.0
+Post procedural haemorrhage,10051077.0
+Productive cough,10036790.0
+Progressive multifocal leukoencephalopathy,10036807.0
+Prostate cancer,10060862.0
+Proteinuria,10037032.0
+Purpura,10037549.0
+Rash erythematous,10037855.0
+Rash maculo-papular,10037868.0
+Rash pruritic,10037884.0
+Recall phenomenon,10060856.0
+Rectal haemorrhage,10038063.0
+Respiratory tract infection,10062352.0
+Retinal haemorrhage,10038867.0
+Rhinitis,10039083.0
+Rhinovirus infection,10061494.0
+Richter's syndrome,10058728.0
+Sinus bradycardia,10040741.0
+Skin cancer,10040808.0
+Skin discolouration,10040829.0
+Skin disorder,10040831.0
+Skin exfoliation,10040844.0
+Skin haemorrhage,10064265.0
+Skin infection,10040872.0
+Skin toxicity,10059516.0
+Spinal pain,10072005.0
+Spontaneous haematoma,10065304.0
+Squamous cell carcinoma,10041823.0
+Squamous cell carcinoma of skin,10041834.0
+Stomatitis,10042128.0
+Subarachnoid haemorrhage,10042316.0
+Subdural haematoma,10042361.0
+Subdural haemorrhage,10042364.0
+Supraventricular tachycardia,10042604.0
+Syncope,10042772.0
+Transaminases increased,10054889.0
+Traumatic haematoma,10044522.0
+Tuberculosis,10044755.0
+Tumour lysis syndrome,10045170.0
+Urticaria,10046735.0
+Ventricular extrasystoles,10047289.0
+Ventricular fibrillation,10047290.0
+Ventricular tachyarrhythmia,10065341.0
+Ventricular tachycardia,10047302.0
+Vertigo,10047340.0
+Viral infection,10047461.0
+Viral upper respiratory tract infection,10047482.0
+Vision blurred,10047513.0
+Visual impairment,10047571.0
+Weight decreased,10047895.0
+Weight increased,10047899.0
+White blood cell count decreased,10047942.0
+Wound haemorrhage,10051373.0
+Abdominal abscess,10060921.0
+Abdominal infection,10056519.0
+Abdominal pain lower,10000084.0
+Abdominal sepsis,10058040.0
+Abdominal wall haematoma,10067383.0
+Abnormal behaviour,10061422.0
+Abnormal dreams,10000125.0
+Abnormal uterine bleeding,10085424.0
+Abortion,10000210.0
+Abortion spontaneous,10000234.0
+Abscess jaw,10053573.0
+Abscess limb,10050473.0
+Abscess of salivary gland,10000305.0
+Acanthoma,10059394.0
+Acarodermatitis,10063409.0
+Acinetobacter bacteraemia,10064965.0
+Acinetobacter sepsis,10083897.0
+Acne,10000496.0
+Acquired gene mutation,10069754.0
+Actinic keratosis,10000614.0
+Activated partial thromboplastin time prolonged,10000636.0
+Acute febrile neutrophilic dermatosis,10000748.0
+Acute generalised exanthematous pustulosis,10048799.0
+Acute hepatitis B,10059193.0
+Acute kidney injury,10069339.0
+Acute left ventricular failure,10063081.0
+Acute lymphocytic leukaemia,10000846.0
+Acute myeloid leukaemia,10000880.0
+Acute myocardial infarction,10000891.0
+Acute pulmonary oedema,10001029.0
+Acute respiratory distress syndrome,10001052.0
+Acute respiratory failure,10001053.0
+Acute sinusitis,10001076.0
+Adams-Stokes syndrome,10001115.0
+Adenocarcinoma,10001141.0
+Adenocarcinoma gastric,10001150.0
+Adenocarcinoma of colon,10001167.0
+Adipose tissue inflammation,1000000285.0
+Adjustment disorder with depressed mood,10001297.0
+Adnexa uteri cyst,10050203.0
+Adrenal disorder,10001347.0
+Adrenal gland weight increased,1000000798.0
+Aeromonas infection,10054205.0
+Age-related macular degeneration,10064930.0
+Albumin globulin ratio decreased,10001565.0
+Albumin globulin ratio increased,10001567.0
+Alopecia areata,10001761.0
+Alveolitis,10001889.0
+Amaurosis,10001902.0
+Amenorrhoea,10001928.0
+Amyloidosis,10002022.0
+Anaemia macrocytic,10002064.0
+Anaemia of malignant disease,10049105.0
+Anal abscess,10048946.0
+Anal fistula,10002156.0
+Anal fungal infection,10068556.0
+Anal haemorrhage,10049555.0
+Anal squamous cell carcinoma,10073358.0
+Anaphylactic shock,10002199.0
+Angina pectoris,10002383.0
+Angina unstable,10002388.0
+Angiocentric lymphoma,10002411.0
+Angioedema,10002424.0
+Angiosarcoma,10002476.0
+Angle closure glaucoma,10002500.0
+Angular cheilitis,10002509.0
+Ankle fracture,10002544.0
+Anti-GAD antibody negative,10059730.0
+Anti-insulin antibody decreased,10053816.0
+Anti-neutrophil cytoplasmic antibody positive vasculitis,10050894.0
+Aortic aneurysm,10002882.0
+Aortic aneurysm rupture,10002886.0
+Aortic dissection,10002895.0
+Aortic intramural haematoma,10067975.0
+Aortic stenosis,10002906.0
+Aortic valve disease,10061589.0
+Aortic valve incompetence,10002915.0
+Aortic valve stenosis,10002918.0
+Aphasia,10002948.0
+Aphthous ulcer,10002959.0
+Aplasia pure red cell,10002965.0
+Aplastic anaemia,10002967.0
+Apnoea,10002974.0
+Appendicitis,10003011.0
+Appendix cancer,10073360.0
+Application site erythema,10003041.0
+Application site irritation,10003046.0
+Arachnoid cyst,10049005.0
+Areflexia,10003084.0
+Arrhythmic storm,10067339.0
+Arterial haemorrhage,10060964.0
+Arterial thrombosis,10003178.0
+Arteriosclerosis coronary artery,10003211.0
+Arteriovenous malformation,10003193.0
+Arthritis bacterial,10053555.0
+Arthritis infective,10060968.0
+Ascites,10003445.0
+Asthma,10003553.0
+Asymptomatic bacteriuria,10056396.0
+Ataxia,10003591.0
+Atrial hypertrophy,10048623.0
+Atrial tachycardia,10003668.0
+Atrioventricular block,10003671.0
+Atrioventricular block complete,10003673.0
+Atrioventricular block first degree,10003674.0
+Atrioventricular block second degree,10003677.0
+Atypical mycobacterial infection,10061663.0
+Atypical pneumonia,10003757.0
+Autoimmune dermatitis,10075689.0
+Autoimmune disorder,10061664.0
+Autoimmune haemolytic anaemia,10073785.0
+Autoimmune neutropenia,10055128.0
+Axillary pain,10048750.0
+Azotaemia,10003885.0
+B-cell lymphoma,10003899.0
+B-lymphocyte abnormalities,10053775.0
+B-lymphocyte count increased,10059998.0
+Bacteraemia,10003997.0
+Bacterial sepsis,10053840.0
+Balance disorder,10049848.0
+Barrett's oesophagus,10004137.0
+Basophilia,10004173.0
+Benign neoplasm of skin,10004398.0
+Benign pancreatic neoplasm,10061000.0
+Benign prostatic hyperplasia,10004446.0
+Bezold abscess,10078160.0
+Bifascicular block,10057393.0
+Biliary colic,10004663.0
+Biliary sepsis,10057847.0
+Bilirubin conjugated increased,10004685.0
+Bilirubin urine present,10077356.0
+BK virus infection,10055181.0
+Bladder adenocarcinoma stage unspecified,10004992.0
+Bladder cancer recurrent,10005005.0
+Bladder granuloma,10005043.0
+Bladder neoplasm,10005056.0
+Bladder transitional cell carcinoma,10005084.0
+Blastomycosis,10005098.0
+Bleeding time prolonged,10005140.0
+Blindness,10005169.0
+Blister,10005191.0
+Blister infected,10005192.0
+Blood albumin abnormal,10005286.0
+Blood albumin decreased,10005287.0
+Blood albumin increased,10005288.0
+Blood aldosterone increased,10005296.0
+Blood bilirubin decreased,10049869.0
+Blood blister,10005372.0
+Blood calcium increased,10005396.0
+Blood chloride decreased,10005419.0
+Blood cholesterol decreased,10005424.0
+Blood cholesterol increased,10005425.0
+Blood corticosterone increased,10005448.0
+Blood creatine increased,10005464.0
+Blood creatine phosphokinase abnormal,10005468.0
+Blood creatine phosphokinase increased,10005470.0
+Blood creatinine decreased,10005482.0
+Blood fibrinogen decreased,10005520.0
+Blood fibrinogen increased,10005521.0
+Blood glucose decreased,10005555.0
+Blood immunoglobulin A decreased,10005585.0
+Blood immunoglobulin A increased,10005586.0
+Blood immunoglobulin M increased,10005601.0
+Blood insulin decreased,10005613.0
+Blood iron abnormal,10005617.0
+Blood ketone body decreased,10057595.0
+Blood lactate dehydrogenase increased,10005630.0
+Blood pressure diastolic increased,10005739.0
+Blood pressure increased,10005750.0
+Blood pressure systolic increased,10005760.0
+Blood sodium decreased,10005802.0
+Blood thyroid stimulating hormone increased,10005833.0
+Blood triglycerides decreased,10005838.0
+Blood triglycerides increased,10005839.0
+Blood urea abnormal,10005846.0
+Blood urea decreased,10005850.0
+Blood urea increased,10005851.0
+Blood urine present,10018870.0
+Bloody discharge,10057687.0
+Blue toe syndrome,10059126.0
+Body temperature decreased,10005910.0
+Bone abscess,10068653.0
+Bone contusion,10066251.0
+Bone development abnormal,10005954.0
+Bone disorder,10005956.0
+Bone hypertrophy,10005973.0
+Bone lesion,10061728.0
+Bone loss,10065687.0
+Bone marrow disorder,10061729.0
+Bone marrow failure,10065553.0
+Bone marrow oedema,10051763.0
+Bowen's disease,10006059.0
+Bradyarrhythmia,10049765.0
+Bradycardia,10006093.0
+Bradypnoea,10006102.0
+Brain abscess,10006105.0
+Brain herniation,10006126.0
+Brain injury,10067967.0
+Brain neoplasm,10061019.0
+Brain neoplasm malignant,10006131.0
+Breast cancer,10006187.0
+Breast haematoma,10064753.0
+Bronchial hyperreactivity,10066091.0
+Bronchiectasis,10006445.0
+Bronchitis bacterial,10061736.0
+Bronchitis chronic,10006458.0
+Bundle branch block left,10006580.0
+Bundle branch block right,10006582.0
+Burkitt's lymphoma,10006595.0
+Burning sensation,10006784.0
+Bursitis infective,10061022.0
+C-reactive protein increased,10006825.0
+Cachexia,10006895.0
+Campylobacter gastroenteritis,10007048.0
+Campylobacter infection,10051226.0
+Candida sepsis,10053166.0
+Capillary fragility,10007191.0
+Capillary fragility test,10062658.0
+Carbon dioxide increased,10007225.0
+Cardiac arrest,10007515.0
+Cardiac death,10049993.0
+Cardiac discomfort,10054211.0
+Cardiac dysfunction,10079751.0
+Cardiac failure acute,10007556.0
+Cardiac failure chronic,10007558.0
+Cardiac failure congestive,10007559.0
+Cardiac fibrillation,10061592.0
+Cardiac flutter,10052840.0
+Cardiac haemorrhage,1000000217.0
+Cardiac murmur,10007586.0
+Cardiac tamponade,10007610.0
+Cardiac valve disease,10061406.0
+Cardio-respiratory arrest,10007617.0
+Cardiogenic shock,10007625.0
+Cardiomegaly,10007632.0
+Cardiomyopathy,10007636.0
+Cardiopulmonary failure,10051093.0
+Cardiorenal syndrome,10068230.0
+Carpal tunnel syndrome,10007697.0
+Cartilage development disorder,10061745.0
+Catheter site bruise,10063587.0
+Catheter site erythema,10052264.0
+Catheter site haematoma,10055662.0
+Catheter site infection,10056520.0
+Catheter site related reaction,10007811.0
+Catheter site swelling,10067996.0
+CD4 lymphocytes increased,10063294.0
+Cell death,10057248.0
+Cellulitis staphylococcal,10007921.0
+Central hypothyroidism,10086754.0
+Central nervous system fungal infection,10072805.0
+Central nervous system infection,10061036.0
+Cerebral aspergillosis,10051597.0
+Cerebral fungal infection,10049657.0
+Cerebral haematoma,10053942.0
+Cerebral infarction,10008118.0
+Cerebral ischaemia,10008120.0
+Cerebral microhaemorrhage,10067277.0
+Cerebral toxoplasmosis,10057854.0
+Change of bowel habit,10008399.0
+Cheilitis,10008417.0
+Chest discomfort,10008469.0
+Chloroma,10008583.0
+Cholangitis,10008604.0
+Cholecystitis,10008612.0
+Cholecystitis acute,10008614.0
+Cholecystitis infective,10062631.0
+Cholelithiasis,10008629.0
+Cholestasis,10008635.0
+Cholesterin granuloma of middle ear,10008649.0
+Chondropathy,10061762.0
+Chronic kidney disease,10064848.0
+Chronic lymphocytic leukaemia,10008958.0
+Chronic myeloid leukaemia,10009013.0
+Chronic myeloid leukaemia recurrent,10075081.0
+Chronic myelomonocytic leukaemia,10009018.0
+Chronic obstructive pulmonary disease,10009033.0
+Chronic sinusitis,10009137.0
+Chronic spontaneous urticaria,10072757.0
+Circulatory collapse,10009192.0
+Clavicle fracture,10009245.0
+Clostridial sepsis,10078496.0
+Clostridium difficile colitis,10009657.0
+Clostridium difficile infection,10054236.0
+Coagulopathy,10009802.0
+Coccidioidomycosis,10009825.0
+Cognitive disorder,10057668.0
+Cold sweat,10009866.0
+Cold type haemolytic anaemia,10009868.0
+Colitis ulcerative,10009900.0
+Colon cancer,10009944.0
+Completed suicide,10010144.0
+Complex regional pain syndrome,10064332.0
+Complication of delivery,10061781.0
+Compression fracture,10010214.0
+Conduction disorder,10010276.0
+Confusional state,10010305.0
+Congenital musculoskeletal disorder,10086700.0
+Conjunctival hyperaemia,10051625.0
+Corneal infection,10061788.0
+Corneal opacity,10011035.0
+Corneal toxicity,10082599.0
+Coronary artery disease,10011078.0
+Coronary artery dissection,10048631.0
+Coronary artery insufficiency,10052895.0
+Coronary artery occlusion,10011086.0
+Coronary artery stenosis,10011089.0
+Coronavirus infection,10051905.0
+Corynebacterium infection,10061092.0
+Craniocerebral injury,10070976.0
+Creatinine renal clearance decreased,10011372.0
+Crohn's disease,10011401.0
+Cryptococcal fungaemia,10067112.0
+Cryptococcal meningoencephalitis,10084824.0
+Cryptococcosis,10011490.0
+Cryptococcus test positive,10070455.0
+Cutaneous mucormycosis,10082722.0
+Cutaneous T-cell lymphoma,10011677.0
+Cutaneous vasculitis,10011686.0
+Cyst,10011732.0
+Cystitis bacterial,10065198.0
+Cystitis haemorrhagic,10011793.0
+Cystoid macular oedema,10058202.0
+Cytogenetic abnormality,10067477.0
+Cytokine release syndrome,10052015.0
+Cytomegalovirus enterocolitis,10049015.0
+Cytomegalovirus infection reactivation,10058666.0
+Cytomegalovirus test positive,10051620.0
+Cytomegalovirus viraemia,10058854.0
+Dactylitis,10064769.0
+Deafness,10011878.0
+Decreased activity,10011953.0
+Decreased embryo viability,10078930.0
+Decreased immune responsiveness,10011968.0
+Deep vein thrombosis,10051055.0
+Defect conduction intraventricular,10012118.0
+Dehydration,10012174.0
+Delirium,10012218.0
+Dementia,10012267.0
+Dental caries,10012318.0
+Depressed mood,10012374.0
+Depression,10012378.0
+Dermal cyst,10012426.0
+Dermatitis atopic,10012438.0
+Dermatitis contact,10012442.0
+Dermatitis exfoliative generalised,10012456.0
+Dermatitis infected,10012470.0
+Dermatomyositis,10012503.0
+Developmental delay,10012559.0
+Device related infection,10064687.0
+Diabetes mellitus,10012601.0
+Diabetes mellitus inadequate control,10012607.0
+Diarrhoea haemorrhagic,10012741.0
+Diarrhoea infectious,10012742.0
+Diastasis recti abdominis,10073169.0
+Diastolic hypertension,10012758.0
+Diffuse alopecia,10073736.0
+Diffuse large B-cell lymphoma,10012818.0
+Dilatation atrial,10013002.0
+Dilated cardiomyopathy,10056419.0
+Diplopia,10013036.0
+Disease progression,10061818.0
+Disorientation,10013395.0
+Disseminated cryptococcosis,10013439.0
+Disseminated tuberculosis,10013453.0
+Disseminated varicella zoster virus infection,10084396.0
+Disturbance in attention,10013496.0
+Diverticulitis,10013538.0
+Drug reaction with eosinophilia and systemic symptoms,10073508.0
+Drug withdrawal syndrome,10013754.0
+Dry throat,10013789.0
+Duodenal ulcer,10013836.0
+Duodenitis,10013864.0
+Dysaesthesia,10013886.0
+Dysarthria,10013887.0
+Dyschezia,10051244.0
+Dyslipidaemia,10058108.0
+Dysmenorrhoea,10013935.0
+Dysphagia,10013950.0
+Dysphonia,10013952.0
+Dyspnoea exertional,10013971.0
+Dysuria,10013990.0
+Ear discomfort,10052137.0
+Ear haemorrhage,10014009.0
+Ear infection,10014011.0
+Ear neoplasm,10055016.0
+Ear pain,10014020.0
+Ecthyma,10014141.0
+Eczema,10014184.0
+Ejection fraction decreased,10050528.0
+Electrocardiogram PR prolongation,10053657.0
+Electrocardiogram QT prolonged,10014387.0
+Electrocardiogram QT shortened,10014388.0
+Electrocardiogram repolarisation abnormality,10052464.0
+Electrocardiogram T wave abnormal,10050380.0
+Embolic cerebral infarction,10060839.0
+Embolism,10061169.0
+Empyema,10014568.0
+Encephalitis fungal,10065170.0
+Encephalitis viral,10014612.0
+Encephalopathy,10014625.0
+Endocarditis,10014665.0
+Endometrial cancer,10014733.0
+Endometrial cancer metastatic,10014734.0
+Endophthalmitis,10014801.0
+Endothelial dysfunction,10048554.0
+Enteritis infectious,10058839.0
+Enterobacter infection,10051910.0
+Enterococcal infection,10061124.0
+Enterocolitis,10014893.0
+Enterocolitis infectious,10058838.0
+Enterovirus infection,10014909.0
+Eosinophil count increased,10014945.0
+Eosinophilia,10014950.0
+Eosinophilic myocarditis,10014961.0
+Eosinophilic pneumonia,10014962.0
+Epidermal necrosis,10059284.0
+Epididymitis,10015000.0
+Epigastric discomfort,10053155.0
+Epiglottitis,10015030.0
+Epilepsy,10015037.0
+Epstein-Barr virus infection,10015108.0
+Epstein-Barr virus infection reactivation,10015109.0
+Eructation,10015137.0
+Erysipelas,10015145.0
+Erythema annulare,10015153.0
+Erythema multiforme,10015218.0
+Erythema nodosum,10015226.0
+Erythrophagocytosis,10053430.0
+Escherichia bacteraemia,10054258.0
+Escherichia infection,10061126.0
+Escherichia pyelonephritis,10074409.0
+Escherichia sepsis,10015296.0
+Escherichia urinary tract infection,10052238.0
+Essential hypertension,10015488.0
+Excessive granulation tissue,10063560.0
+Exophthalmos,10015683.0
+Exostosis,10015688.0
+External ear neoplasm malignant,10082277.0
+Extramedullary haemopoiesis,10063827.0
+Extrasystoles,10015856.0
+Extravasation,10015866.0
+Eye contusion,10073354.0
+Eye discharge,10015915.0
+Eye disorder,10015916.0
+Eye infection,10015929.0
+Eye infection toxoplasmal,10015939.0
+Eye infection viral,10015940.0
+Eye inflammation,10015943.0
+Eye irritation,10015946.0
+Eye pain,10015958.0
+Eye pruritus,10052140.0
+Eyelid ptosis,10015995.0
+Eyelid rash,10074620.0
+Face injury,10050392.0
+Face oedema,10016029.0
+Facial paralysis,10016062.0
+Faecalith,10056988.0
+Faeces pale,10016102.0
+Faeces soft,10074859.0
+Fear of injection,10073753.0
+Feeding disorder,10061148.0
+Feeling cold,10016326.0
+Femoral neck fracture,10016450.0
+Femur fracture,10016454.0
+Flatulence,10016766.0
+Focal segmental glomerulosclerosis,10067757.0
+Foetal bone disorder,1000000036.0
+Foetal growth restriction,10070531.0
+Folate deficiency,10016880.0
+Follicular lymphoma,10085128.0
+Foot fracture,10016970.0
+Fracture,10017076.0
+Frequent bowel movements,10017367.0
+Full blood count abnormal,10017412.0
+Full blood count decreased,10017413.0
+Fungal abscess central nervous system,10017524.0
+Fungal sepsis,10058872.0
+Fungal skin infection,10017543.0
+Furuncle,10017553.0
+Gait inability,10017581.0
+Gastric cancer,10017758.0
+Gastric haemorrhage,10017788.0
+Gastric polyps,10017817.0
+Gastric ulcer,10017822.0
+Gastric ulcer haemorrhage,10017826.0
+Gastritis erosive,10017865.0
+Gastroenteritis norovirus,10068189.0
+Gastroenteritis salmonella,10017914.0
+Gastroenteritis shigella,10017915.0
+Gastroenteritis viral,10017918.0
+Gastrointestinal adenocarcinoma,10081003.0
+Gastrointestinal erosion,10060709.0
+Gastrointestinal infection,10017964.0
+Gastrointestinal necrosis,10017982.0
+Gastrointestinal toxicity,10059024.0
+Gastrointestinal ulcer,10061459.0
+General physical health deterioration,10049438.0
+General/unspecified toxicity,1000000048.0
+Generalised oedema,10018092.0
+Genital herpes simplex,10073931.0
+Genital infection fungal,10061180.0
+Genitourinary tract neoplasm,10061183.0
+Giardiasis,10018262.0
+Gingival bleeding,10018276.0
+Gingivitis,10018292.0
+Glaucoma,10018304.0
+Glioblastoma,10018336.0
+Glioblastoma multiforme,10018337.0
+Globulins decreased,10058001.0
+Globulins increased,10018350.0
+Glomerular disorder,1000000163.0
+Glomerulosclerosis,10061989.0
+Glossitis,10018386.0
+Glucose tolerance impaired,10018429.0
+Glucose urine present,10018478.0
+Glycogen storage disease type VIII,10053242.0
+Goitre,10018498.0
+Gout,10018627.0
+Graft versus host disease in gastrointestinal tract,10075160.0
+Granulomatous dermatitis,10074954.0
+Granulomatous T-cell pseudolymphoma,10084214.0
+Groin abscess,10050269.0
+Groin pain,10018735.0
+Guillain-Barre syndrome,10018767.0
+H1N1 influenza,10069767.0
+H3N2 influenza,10081286.0
+Haemangioma of bone,10072572.0
+Haemangioma of skin,10018823.0
+Haematemesis,10018830.0
+Haematochezia,10018836.0
+Haematocrit decreased,10018838.0
+Haematological malignancy,10066476.0
+Haematology test abnormal,10057755.0
+Haematoma infection,10051564.0
+Haematospermia,10018866.0
+Haematotoxicity,10061188.0
+Haemoglobinuria,10018906.0
+Haemolysis,10018910.0
+Haemolytic anaemia,10018916.0
+Haemophagocytic lymphohistiocytosis,10071583.0
+Haemophilus infection,10061190.0
+Haemophobia,10073458.0
+Haemorrhagic diathesis,10062713.0
+Haemorrhagic stroke,10019016.0
+Haemorrhagic transformation stroke,10055677.0
+Haemorrhoidal haemorrhage,10054787.0
+Haemorrhoids,10019022.0
+Hair colour changes,10019030.0
+Hair disorder,10019037.0
+Hair texture abnormal,10019049.0
+Hand dermatitis,10058898.0
+Head discomfort,10019194.0
+Heart disease congenital,10019273.0
+Heart rate decreased,10019301.0
+Heart rate increased,10019303.0
+Heart rate irregular,10019304.0
+Heart valve calcification,10058968.0
+Heart valve incompetence,10067660.0
+Heart weight increased,1000000175.0
+Heavy menstrual bleeding,10085423.0
+Helicobacter infection,10054263.0
+Hemiparesis,10019465.0
+Hepatic atrophy,10019637.0
+Hepatic cirrhosis,10019641.0
+Hepatic enzyme abnormal,10062685.0
+Hepatic enzyme increased,10060795.0
+Hepatic failure,10019663.0
+Hepatic hypertrophy,10076254.0
+Hepatic infection,10056522.0
+Hepatic infiltration eosinophilic,10064668.0
+Hepatic necrosis,10019692.0
+Hepatitis,10019717.0
+Hepatitis acute,10019727.0
+Hepatitis B,10019731.0
+Hepatitis C,10019744.0
+Hepatitis E,10019768.0
+Hepatitis toxic,10019795.0
+Hepatocellular injury,10019837.0
+Hepatomegaly,10019842.0
+Herpes ophthalmic,10062004.0
+Herpes simplex,10019948.0
+Herpes simplex reactivation,10080137.0
+Herpes zoster meningoencephalitis,10074248.0
+Herpes zoster oticus,10063491.0
+Herpes zoster reactivation,10080516.0
+Hiatus hernia,10020028.0
+Hiccups,10020039.0
+High density lipoprotein decreased,10020060.0
+Hip fracture,10020100.0
+Hirsutism,10020112.0
+Histiocytic sarcoma,10076876.0
+Histoplasmosis,10020141.0
+Histoplasmosis disseminated,10020144.0
+Hodgkin's disease,10020206.0
+Hordeolum,10020377.0
+Hot flush,10060800.0
+Hydrocele male infected,10020497.0
+Hydronephrosis,10020524.0
+Hyperaesthesia,10020568.0
+Hyperamylasaemia,10062770.0
+Hyperbilirubinaemia,10020578.0
+Hypercalcaemia,10020583.0
+Hypercholesterolaemia,10020603.0
+Hyperdynamic left ventricle,10068359.0
+Hyperhidrosis,10020642.0
+Hyperkalaemia,10020646.0
+Hyperkeratosis,10020649.0
+Hyperleukocytosis,10078862.0
+Hyperlipidaemia,10062060.0
+Hypernatraemia,10020679.0
+Hyperparathyroidism,10020705.0
+Hyperplasia adrenal,10020719.0
+Hypersensitivity,10020751.0
+Hypersensitivity pneumonitis,10081988.0
+Hypersensitivity vasculitis,10020764.0
+Hypersomnia,10020765.0
+Hypertensive crisis,10020802.0
+Hypertensive heart disease,10020823.0
+Hypertensive urgency,10058181.0
+Hyperthyroidism,10020850.0
+Hypertrichosis,10020864.0
+Hypervolaemia,10020919.0
+Hyphaema,10020923.0
+Hypoacusis,10048865.0
+Hypoaesthesia,10020937.0
+Hypocalcaemia,10020947.0
+Hypochloraemia,10020955.0
+Hypofibrinogenaemia,10051125.0
+Hypoglycaemia,10020993.0
+Hypokinesia,10021021.0
+Hypomagnesaemia,10021027.0
+Hypophagia,10063743.0
+Hypoproteinaemia,10021083.0
+Hypotension,10021097.0
+Hypothermia,10021113.0
+Hypothyroidism,10021114.0
+Hypotonia,10021118.0
+Hypovolaemia,10021137.0
+Hypovolaemic shock,10021138.0
+Hypoxia,10021143.0
+Ileus,10021328.0
+Ill-defined disorder,10061520.0
+Illness,10080284.0
+Illusion,10021403.0
+Immune-mediated adverse reaction,10077665.0
+Immune-mediated dermatitis,10083156.0
+Immunoglobulins abnormal,10021497.0
+Impaired healing,10021519.0
+Impaired thrombopoiesis,1000000186.0
+Impetigo,10021531.0
+Increased appetite,10021654.0
+Infarction,10061216.0
+Infected bite,10076911.0
+Infected skin ulcer,10021784.0
+Infectious pleural effusion,10071699.0
+Infective exacerbation of bronchiectasis,10070295.0
+Infective myositis,10021918.0
+Infestation,10061217.0
+Inflammation,10061218.0
+Inflammatory bowel disease,10021972.0
+Influenza like illness,10022004.0
+Infrequent bowel movements,10059158.0
+Infusion related reaction,10051792.0
+Ingrowing nail,10022013.0
+Inguinal hernia,10022016.0
+Initial insomnia,10022035.0
+Injection site bruising,10022052.0
+Injection site haemorrhage,10022067.0
+Injury,10022116.0
+Intentional self-injury,10022524.0
+Intermittent claudication,10022562.0
+Internal haemorrhage,10075192.0
+International normalised ratio increased,10022595.0
+Intervertebral disc protrusion,10050296.0
+Intestinal congestion,10065611.0
+Intestinal haemorrhage,10059175.0
+Intestinal mass,10059017.0
+Intestinal mucosal atrophy,10067745.0
+Intestinal obstruction,10022687.0
+Intestinal perforation,10022694.0
+Intestinal polyp,10048616.0
+Intra-abdominal haematoma,10056457.0
+Intracranial haematoma,10059491.0
+Intracranial mass,10077667.0
+Invasive ductal breast carcinoma,10073095.0
+Iritis,10022955.0
+Iron deficiency,10022970.0
+Iron deficiency anaemia,10022972.0
+Ischaemic cardiomyopathy,10048858.0
+Ischaemic cerebral infarction,10060840.0
+Ischaemic stroke,10061256.0
+Jaundice,10023126.0
+Joint ankylosis,10023198.0
+Joint effusion,10023215.0
+Joint injury,10060820.0
+Joint range of motion decreased,10048706.0
+Joint swelling,10023232.0
+Keratoacanthoma,10023347.0
+Kidney infection,10023424.0
+Klebsiella bacteraemia,10058856.0
+Klebsiella infection,10061259.0
+Klebsiella sepsis,10054160.0
+Koilonychia,10054999.0
+Labour complication,10061050.0
+Lacrimation increased,10023644.0
+Lactic acidosis,10023676.0
+Laryngeal cancer,10023825.0
+Laryngeal inflammation,10065735.0
+Laryngeal pain,10023848.0
+Left atrial dilatation,10067286.0
+Left atrial enlargement,10051860.0
+Left atrial hypertrophy,10057500.0
+Left ventricular dysfunction,10049694.0
+Left ventricular failure,10024119.0
+Left ventricular hypertrophy,10049773.0
+Legionella infection,10061266.0
+Lentigo maligna,10024218.0
+Leukaemic infiltration pulmonary,10052368.0
+Leukocyturia,10050791.0
+Leukoencephalopathy,10024382.0
+Leukostasis syndrome,10074608.0
+Ligament sprain,10024453.0
+Light chain analysis increased,10060084.0
+Limb injury,10061225.0
+Lip dry,10024552.0
+Lip squamous cell carcinoma,10064055.0
+Lip swelling,10024570.0
+Lipid metabolism disorder,10061227.0
+Lipids decreased,10024591.0
+Listeria sepsis,10063085.0
+Listeriosis,10024641.0
+Livedo reticularis,10024648.0
+Liver function test abnormal,10024690.0
+Liver function test increased,10077692.0
+Liver injury,10067125.0
+Liver weight increased,1000000752.0
+Localised infection,10024774.0
+Localised oedema,10048961.0
+Loss of consciousness,10024855.0
+Lower gastrointestinal haemorrhage,10050953.0
+Lower limb fracture,10061599.0
+Lower respiratory tract infection bacterial,10063890.0
+Lower respiratory tract infection fungal,10065187.0
+Lower respiratory tract infection viral,10065188.0
+Lumbar radiculopathy,10050219.0
+Lumbar spinal stenosis,10025005.0
+Lumbar vertebral fracture,10049947.0
+Lung adenocarcinoma,10025031.0
+Lung adenocarcinoma stage 0,10025034.0
+Lung cancer metastatic,10050017.0
+Lung disorder,10025082.0
+Lung neoplasm,10062042.0
+Lung opacity,10081792.0
+Lung squamous cell carcinoma metastatic,10071533.0
+Lymph node pain,10025182.0
+Lymphadenitis,10025188.0
+Lymphadenitis bacterial,10065224.0
+Lymphadenopathy,10025197.0
+Lymphangitis,10025226.0
+Lymphatic disorder,10052314.0
+Lymphocytic infiltration,10062049.0
+Lymphoedema,10025282.0
+Lymphoid tissue hypoplasia,10079123.0
+Lymphoma,10025310.0
+Lymphoma transformation,10064344.0
+Macular oedema,10025415.0
+Macule,10025421.0
+Major depression,10057840.0
+Malignant ascites,10025538.0
+Malignant histiocytosis,10025581.0
+Malignant hypertension,10025600.0
+Malignant mast cell neoplasm,10025638.0
+Malignant melanoma in situ,10025652.0
+Malignant neoplasm of conjunctiva,10025861.0
+Mallory-Weiss syndrome,10026712.0
+Malnutrition,10061273.0
+Mania,10026749.0
+Mantle cell lymphoma,10061275.0
+Mantle cell lymphoma recurrent,10026800.0
+Mastoid effusion,10069008.0
+Mastoiditis,10026900.0
+Maternal death affecting foetus,10026912.0
+Mean cell haemoglobin concentration decreased,10026991.0
+Mean cell haemoglobin decreased,10026995.0
+Mean cell volume decreased,10027002.0
+Mean cell volume increased,10027004.0
+Mean platelet volume decreased,10055053.0
+Mediastinal haematoma,10049941.0
+Medical device site dermatitis,10075572.0
+Medical device site irritation,10075582.0
+Medical device site rash,10075585.0
+Medical device site reaction,10062680.0
+Megakaryocytes abnormal,10027118.0
+Megakaryocytes decreased,10027119.0
+Melaena,10027141.0
+Melanocytic naevus,10027145.0
+Meningitis,10027199.0
+Meningitis aseptic,10027201.0
+Meningitis bacterial,10027202.0
+Meningitis cryptococcal,10027209.0
+Meningitis fungal,10027236.0
+Meningitis tuberculous,10027259.0
+Meningococcal infection,10027274.0
+Meningorrhagia,10052593.0
+Mental status changes,10048294.0
+Mesothelioma malignant,10027407.0
+Metabolic acidosis,10027417.0
+Metabolic disorder,10058097.0
+Metapneumovirus infection,10066226.0
+Metastases to meninges,10051696.0
+Metastases to peritoneum,10051676.0
+Metastases to spine,10027468.0
+Metastatic malignant melanoma,10027480.0
+Metastatic neoplasm,10061289.0
+Metastatic squamous cell carcinoma,10063569.0
+Metatarsalgia,10027487.0
+Microcytic anaemia,10027538.0
+Micturition urgency,10027566.0
+Middle ear effusion,10062545.0
+Middle ear inflammation,10065838.0
+Migraine,10027599.0
+Migraine with aura,10027607.0
+Mitochondrial toxicity,10053961.0
+Mitral valve disease,10061532.0
+Mitral valve incompetence,10027727.0
+Mobility decreased,10048334.0
+Monocyte count increased,10027880.0
+Motor dysfunction,10061296.0
+Mucocutaneous haemorrhage,10076048.0
+Mucoepidermoid carcinoma of salivary gland,10073371.0
+Mucormycosis,10028098.0
+Mucosal disorder,10082268.0
+Mucosal haemorrhage,10061298.0
+Mucosal infection,10065764.0
+Mucosal inflammation,10028116.0
+Mucous stools,10028140.0
+Multiple injuries,10028224.0
+Multiple organ dysfunction syndrome,10077361.0
+Muscle disorder,10028300.0
+Muscle haemorrhage,10028309.0
+Muscle spasticity,10028335.0
+Muscle strain,10050031.0
+Muscular weakness,10028372.0
+Musculoskeletal disorder,10048592.0
+Musculoskeletal stiffness,10052904.0
+Mycobacterial infection,10062207.0
+Mycobacterium avium complex infection,10058806.0
+Mycobacterium ulcerans infection,10066289.0
+Mydriasis,10028521.0
+Myelofibrosis,10028537.0
+Myocardial fibrosis,10028594.0
+Myocardial haemorrhage,10048849.0
+Myocardial infarction,10028596.0
+Myocardial injury,10085879.0
+Myocardial necrosis,10028602.0
+Myocarditis,10028606.0
+Myopathy,10028641.0
+Myositis,10028653.0
+Nail bed bleeding,10048891.0
+Nail cuticle fissure,10079216.0
+Nail disorder,10028694.0
+Nail growth abnormal,10064764.0
+Nail infection,10061304.0
+Nail injury,10068655.0
+Nail ridging,10062283.0
+Nasal abscess,10028720.0
+Nasal dryness,10028740.0
+Nasal necrosis,10028747.0
+Nasal obstruction,10028748.0
+Nasal oedema,10028750.0
+Nasopharyngeal cancer,10061306.0
+Necrosis,10028851.0
+Necrotising fasciitis fungal,10052892.0
+Neoplasm skin,10029098.0
+Nephrolithiasis,10029148.0
+Nephropathy toxic,10029155.0
+Nervous system disorder,10029202.0
+Neuralgia,10029223.0
+Neuroborreliosis,10052057.0
+Neuroendocrine carcinoma,10057270.0
+Neuroendocrine carcinoma of the skin,10029266.0
+Neuroendocrine tumour,10052399.0
+Neutrophil count increased,10029368.0
+Neutrophilic dermatosis,10058105.0
+Neutrophilic panniculitis,10067115.0
+Night sweats,10029410.0
+Nightmare,10029412.0
+Nocardiosis,10029444.0
+Nocturia,10029446.0
+Nodular melanoma,10029488.0
+Non-cardiac chest pain,10062501.0
+Non-small cell lung cancer,10061873.0
+Obliterative bronchiolitis,10029888.0
+Obstructed labour,10029934.0
+Occult blood positive,10061880.0
+Ocular hyperaemia,10030041.0
+Ocular toxicity,10061137.0
+Oculomucocutaneous syndrome,10030081.0
+Odynophagia,10030094.0
+Oesophageal candidiasis,10030154.0
+Oesophageal carcinoma,10030155.0
+Oesophagitis,10030216.0
+Oliguria,10030302.0
+Onychoclasis,10048886.0
+Onycholysis,10030337.0
+Onychomadesis,10049274.0
+Onychomycosis,10030338.0
+Ophthalmic herpes zoster,10030865.0
+Oral blood blister,10076590.0
+Oral candidiasis,10030963.0
+Oral fungal infection,10061324.0
+Oral infection,10048685.0
+Oral pain,10031009.0
+Orchitis,10031064.0
+Organ failure,10053159.0
+Organising pneumonia,10067472.0
+Oropharyngeal candidiasis,10050346.0
+Ossification incomplete,1000000202.0
+Osteoarthritis,10031161.0
+Osteomyelitis,10031252.0
+Osteomyelitis fungal,10065239.0
+Osteonecrosis,10031264.0
+Osteoporosis,10031282.0
+Osteosclerosis,10031298.0
+Otitis externa,10033072.0
+Otitis media,10033078.0
+Otitis media acute,10033079.0
+Otitis media chronic,10033081.0
+Ovarian cancer,10033128.0
+Ovarian cancer metastatic,10057529.0
+Ovarian cyst,10033132.0
+Overdose,10033295.0
+Oxidative stress,10080562.0
+Pain,10033371.0
+Pain in jaw,10033433.0
+Pain of skin,10033474.0
+Palindromic rheumatism,10033534.0
+Pancreatic atrophy,10033603.0
+Pancreatic carcinoma,10033609.0
+Pancreatic disorder,10033616.0
+Pancreatic fibrosis,10074857.0
+Pancreatic haemorrhage,10033625.0
+Pancreatic hypertrophy,1000000330.0
+Pancreatic neoplasm,10061902.0
+Pancreatitis acute,10033647.0
+Pancytopenia,10033661.0
+Papillary renal cell carcinoma,10078493.0
+Papillary thyroid cancer,10033701.0
+Papule,10033733.0
+Paraesthesia,10033775.0
+Paraesthesia oral,10057372.0
+Parainfluenzae virus infection,10061907.0
+Paraneoplastic pemphigus,10057056.0
+Parkinson's disease,10061536.0
+Paronychia,10034016.0
+Patella fracture,10034122.0
+Pelvic fluid collection,10065388.0
+Pelvic haemorrhage,10063678.0
+Pemphigoid,10034277.0
+Penile cancer,10034299.0
+Penile haemorrhage,10034305.0
+Penile infection,10061912.0
+Periarthritis,10034464.0
+Pericardial effusion,10034474.0
+Pericardial haemorrhage,10034476.0
+Pericarditis,10034484.0
+Pericarditis constrictive,10034487.0
+Perineal infection,10066876.0
+Periorbital cellulitis,10057182.0
+Periorbital haematoma,10034544.0
+Periorbital haemorrhage,10071697.0
+Periorbital infection,10051472.0
+Peripheral coldness,10034568.0
+Peripheral embolism,10061340.0
+Peripheral sensory neuropathy,10034620.0
+Peripheral swelling,10048959.0
+Peripheral T-cell lymphoma unspecified,10034623.0
+Peripheral vascular disorder,10034636.0
+Peritonitis,10034674.0
+Peritonsillar abscess,10034686.0
+pH urine decreased,10034793.0
+Pharyngeal swelling,10082270.0
+Pharyngitis streptococcal,10034839.0
+Phlebitis,10034879.0
+Phlebitis superficial,10034902.0
+Photodermatosis,10051246.0
+Photophobia,10034960.0
+Picornavirus infection,10076233.0
+Pigmentation disorder,10062080.0
+Pituitary haemorrhage,10049760.0
+Pityriasis rosea,10035114.0
+Plantar fasciitis,10035155.0
+Plasma cell myeloma,10035226.0
+Plasmablastic lymphoma,10065039.0
+Platelet aggregation abnormal,10061601.0
+Platelet aggregation decreased,10035517.0
+Platelet aggregation inhibition,10050661.0
+Platelet count increased,10051608.0
+Platelet disorder,10035532.0
+Pleural disorder,10035595.0
+Pleural fluid analysis abnormal,10083928.0
+Pleural infection,10061351.0
+Pleurisy,10035618.0
+Pleuropericarditis,10059361.0
+Pneumococcal infection,10061353.0
+Pneumococcal sepsis,10054047.0
+Pneumocystis jirovecii infection,10073756.0
+Pneumonia acinetobacter,10079866.0
+Pneumonia bacterial,10060946.0
+Pneumonia cryptococcal,10067565.0
+Pneumonia cytomegaloviral,10035676.0
+Pneumonia haemophilus,10035702.0
+Pneumonia influenzal,10035714.0
+Pneumonia klebsiella,10035717.0
+Pneumonia legionella,10035718.0
+Pneumonia mycoplasmal,10035724.0
+Pneumonia parainfluenzae viral,10035727.0
+Pneumonia pneumococcal,10035728.0
+Pneumonia pseudomonal,10035731.0
+Pneumonia respiratory syncytial viral,10035732.0
+Pneumonia staphylococcal,10035734.0
+Pneumonia streptococcal,10035735.0
+Pneumothorax,10035759.0
+Pollakiuria,10036018.0
+Polyarthritis,10036030.0
+Polycythaemia,10036051.0
+Polycythaemia vera,10036057.0
+Polyneuropathy,10036105.0
+Polyomavirus-associated nephropathy,10065381.0
+Polyuria,10036142.0
+Poor peripheral circulation,10036155.0
+Portal hypertension,10036200.0
+Portal hypertensive gastropathy,10050897.0
+Post herpetic neuralgia,10036376.0
+Post procedural cellulitis,10053174.0
+Post procedural complication,10058046.0
+Post procedural contusion,10073353.0
+Post procedural haematoma,10063188.0
+Post procedural haematuria,10066225.0
+Post-implantation loss,1000001011.0
+Postmenopausal haemorrhage,10055870.0
+Postoperative hypertension,10050631.0
+Postoperative wound infection,10036410.0
+Posture abnormal,10036436.0
+Pre-eclampsia,10036485.0
+Precancerous skin lesion,10049422.0
+Prehypertension,10065918.0
+Premature baby,10036590.0
+Presyncope,10036653.0
+Procedural haemorrhage,10071229.0
+Procedural pain,10064882.0
+Prolonged labour,10036872.0
+Prolymphocytic leukaemia,10036888.0
+Prostate cancer metastatic,10036909.0
+Prostate cancer stage II,10036918.0
+Prostatic atrophy,10036941.0
+Prostatic disorder,10036956.0
+Prostatic mass,10064022.0
+Prostatic obstruction,10055026.0
+Prostatic specific antigen decreased,10036972.0
+Prostatic specific antigen increased,10036975.0
+Prostatitis,10036978.0
+Prostatitis Escherichia coli,10067320.0
+Prostatomegaly,10051482.0
+Protein total decreased,10037014.0
+Protein total increased,10037016.0
+Protein urine absent,10037033.0
+Protein urine present,10053123.0
+Proteus infection,10061470.0
+Pseudohyperkalaemia,10052185.0
+Pseudomonal bacteraemia,10058923.0
+Pseudomonal sepsis,10058877.0
+Pseudomonas infection,10061471.0
+Psoriasis,10037153.0
+Pulmonary alveolar haemorrhage,10037313.0
+Pulmonary embolism,10037377.0
+Pulmonary fibrosis,10037383.0
+Pulmonary granuloma,10037391.0
+Pulmonary haematoma,10054991.0
+Pulmonary haemorrhage,10037394.0
+Pulmonary mass,10056342.0
+Pulmonary oedema,10037423.0
+Pulmonary sepsis,10051739.0
+Pulmonary toxicity,10061924.0
+Pulmonary tuberculosis,10037440.0
+Pulpitis dental,10037464.0
+Pulse abnormal,10037466.0
+Pulseless electrical activity,10058151.0
+Pupillary disorder,10037521.0
+Pustule,10037578.0
+Pyelitis,10037584.0
+Pyelonephritis,10037596.0
+Pyelonephritis acute,10037597.0
+Pyoderma gangrenosum,10037635.0
+Pyogenic granuloma,10037649.0
+Pyometra,10037651.0
+Pyuria,10037686.0
+Queyrat erythroplasia,10037732.0
+Rales,10037833.0
+Rash macular,10037867.0
+Rash morbilliform,10037870.0
+Rash papular,10037876.0
+Rash pustular,10037888.0
+Rebound effect,10038001.0
+Rectal adenocarcinoma,10038019.0
+Rectal cancer,10038038.0
+Rectal neoplasm,10062099.0
+Red blood cell count decreased,10038153.0
+Red blood cells urine positive,10038182.0
+Regulatory t cells decreased,1000000239.0
+Renal abscess,10038351.0
+Renal artery stenosis,10038378.0
+Renal cancer,10038389.0
+Renal cell carcinoma,10067946.0
+Renal cyst haemorrhage,10059846.0
+Renal disorder,10038428.0
+Renal failure,10038435.0
+Renal haematoma,10038459.0
+Renal haemorrhage,10038460.0
+Renal hypertrophy,10038468.0
+Renal impairment,10062237.0
+Renal infarct,10038470.0
+Renal injury,10061481.0
+Renal tubular atrophy,10038536.0
+Renal tubular disorder,10038537.0
+Renal tubular injury,10078933.0
+Renal tubular necrosis,10038540.0
+Respiratory distress,10038687.0
+Respiratory failure,10038695.0
+Respiratory fume inhalation disorder,10061485.0
+Respiratory syncytial virus infection,10061603.0
+Respiratory tract haemorrhage,10038727.0
+Respiratory tract infection bacterial,10060693.0
+Respiratory tract infection fungal,10060692.0
+Respiratory tract infection viral,10062106.0
+Respiratory tract inflammation,10068956.0
+Restless legs syndrome,10058920.0
+Retarded ossification,1000000088.0
+Reticulocyte count increased,10038792.0
+Retinal artery occlusion,10038827.0
+Retinal tear,10038897.0
+Retinal vascular occlusion,10038903.0
+Retinal vein occlusion,10038907.0
+Retinopathy,10038923.0
+Retroperitoneal haematoma,10058360.0
+Retroperitoneal haemorrhage,10038980.0
+Retroperitoneal lymphadenopathy,10067015.0
+Retroperitoneal mass,10071732.0
+Rhegmatogenous retinal detachment,10065569.0
+Rhinitis allergic,10039085.0
+Rhinocerebral mucormycosis,10076959.0
+Rhinorrhoea,10039101.0
+Rib fracture,10039117.0
+Right ventricular dysfunction,10058597.0
+Rotavirus infection,10067470.0
+Salivary gland neoplasm,10061497.0
+Salivary hypersecretion,10039424.0
+Salmonella sepsis,10058878.0
+Salmonellosis,10039447.0
+Sarcoidosis,10039486.0
+Sarcoma,10039491.0
+Scab,10039509.0
+Scedosporium infection,10059045.0
+Sciatica,10039674.0
+Scleral hyperaemia,10059096.0
+Scoliosis,10039722.0
+Scratch,10039737.0
+Scrotal haematocoele,10061517.0
+Scrotal haematoma,10039749.0
+Seborrhoeic keratosis,10039796.0
+Secondary adrenocortical insufficiency,10039807.0
+Sedation,10039897.0
+Seizure,10039906.0
+Sensory loss,10040030.0
+Septic encephalopathy,10069141.0
+Septic shock,10040070.0
+Serositis,10058556.0
+Shock,10040560.0
+Sialoadenitis,10040628.0
+Sinoatrial block,10040736.0
+Sinopulmonary infection,1000000427.0
+Sinus arrest,10040738.0
+Sinus arrhythmia,10040739.0
+Sinus congestion,10040742.0
+Sinus headache,10040744.0
+Sinus node dysfunction,10075889.0
+Sinus tachycardia,10040752.0
+Skin abrasion,10064990.0
+Skin atrophy,10040799.0
+Skin bacterial infection,10052891.0
+Skin burning sensation,10054786.0
+Skin erosion,10040840.0
+Skin fissures,10040849.0
+Skin hyperpigmentation,10040865.0
+Skin hypertrophy,10040867.0
+Skin laceration,10058818.0
+Skin lesion,10040882.0
+Skin mass,10067868.0
+Skin papilloma,10040907.0
+Skin reaction,10040914.0
+Skin striae,10040925.0
+Skin ulcer,10040943.0
+Sleep apnoea syndrome,10040979.0
+Sleep disorder,10040984.0
+Small cell lung cancer,10041067.0
+Small intestinal obstruction,10041101.0
+Sneezing,10041232.0
+Snoring,10041235.0
+Soft tissue infection,10062255.0
+Soft tissue injury,10041291.0
+Somnolence,10041349.0
+Specific gravity urine decreased,10050772.0
+Spermatozoa morphology abnormal,10041502.0
+Spinal compression fracture,10041541.0
+Spinal cord haemorrhage,10048992.0
+Spinal fracture,10041569.0
+Spinal osteoarthritis,10041591.0
+Spinal subdural haematoma,10050164.0
+Spleen atrophy,10076915.0
+Spleen disorder,10041633.0
+Splenic haematoma,10041646.0
+Splenic haemorrhage,10041647.0
+Splenic rupture,10041658.0
+Splenomegaly,10041660.0
+Splinter haemorrhages,10041663.0
+Spondylolisthesis,10063550.0
+Spontaneous haemorrhage,10074557.0
+Spontaneous hyphaema,10080110.0
+Sputum discoloured,10041807.0
+Squamous cell carcinoma of head and neck,10060121.0
+Squamous cell carcinoma of lung,10041826.0
+Squamous cell carcinoma of the parotid gland,10082230.0
+Squamous cell carcinoma of the tongue,10041865.0
+Squamous cell carcinoma of the vulva,10041875.0
+Staphylococcal bacteraemia,10051017.0
+Staphylococcal infection,10058080.0
+Staphylococcal sepsis,10056430.0
+Staphylococcal skin infection,10066409.0
+Stasis dermatitis,10041955.0
+Stenotrophomonas infection,10054138.0
+Stent-graft endoleak,10064396.0
+Stevens-Johnson syndrome,10042033.0
+Stoma site haemorrhage,10074508.0
+Streptococcal bacteraemia,10051018.0
+Streptococcal endocarditis,10073742.0
+Streptococcal infection,10061372.0
+Stress,10042209.0
+Stress cardiomyopathy,10066286.0
+Stress fracture,10042212.0
+Stress urinary incontinence,10066218.0
+Stupor,10042264.0
+Subcapsular renal haematoma,10083385.0
+Subcutaneous abscess,10042343.0
+Sudden cardiac death,10049418.0
+Sudden death,10042434.0
+Sudden hearing loss,10061373.0
+Superficial vein thrombosis,10086210.0
+Supraventricular extrasystoles,10042602.0
+Sweat gland disorder,10042653.0
+Swelling,10042674.0
+Swelling face,10042682.0
+Swollen tongue,10042727.0
+Synovial cyst,10042858.0
+Synovial rupture,10042862.0
+Synovitis,10042868.0
+Systemic bacterial infection,10078415.0
+Systemic candida,10042938.0
+Systolic hypertension,10042957.0
+T-lymphocyte count increased,10057264.0
+Tachyarrhythmia,10049447.0
+Tachycardia,10043071.0
+Tachycardia induced cardiomyopathy,10074269.0
+Teeth brittle,10043173.0
+Tendon disorder,10043239.0
+Tendon pain,10066371.0
+Tendonitis,10043255.0
+Tenosynovitis,10043261.0
+Tension headache,10043269.0
+Teratogenicity,10043275.0
+Testicular atrophy,10043298.0
+Thermal burn,10053615.0
+Thirst,10043458.0
+Thoracic vertebral fracture,10049948.0
+Throat irritation,10043521.0
+Thrombocytopenic purpura,10043561.0
+Thrombosis,10043607.0
+Thrombotic stroke,10043647.0
+Thymus enlargement,10065588.0
+Thymus weight decreased,1000000753.0
+Thyroid disorder,10043709.0
+Thyroid hormones decreased,10075803.0
+Thyroid mass,10058900.0
+Thyroxine decreased,10043816.0
+Tibia fracture,10043827.0
+Tinea infection,10060889.0
+Tinea pedis,10043873.0
+Tinnitus,10043882.0
+Tonsillitis,10044008.0
+Tooth abscess,10044016.0
+Tooth fracture,10062544.0
+Tooth infection,10048762.0
+Tooth loss,10044044.0
+Toothache,10044055.0
+Torsade de pointes,10044066.0
+Toxic epidermal necrolysis,10044223.0
+Toxic shock syndrome staphylococcal,10044250.0
+Toxic skin eruption,10057970.0
+Tracheitis,10044302.0
+Transfusion reaction,10044359.0
+Transient acantholytic dermatosis,10051446.0
+Transient ischaemic attack,10044390.0
+Transitional cell carcinoma,10044412.0
+Traumatic haemorrhage,10053476.0
+Traumatic intracranial haemorrhage,10061387.0
+Tremor,10044565.0
+Tri-iodothyronine decreased,10044594.0
+Trichodysplasia spinulosa,10072358.0
+Trichorrhexis,10044625.0
+Tricuspid valve disease,10061389.0
+Tubulointerstitial nephritis,10048302.0
+Tumour flare,10045169.0
+Tumour haemorrhage,10049750.0
+Tumour necrosis,10054094.0
+Tumour ulceration,10050283.0
+Type 2 diabetes mellitus,10067585.0
+Type I hypersensitivity,10045240.0
+Ulcer haemorrhage,10061577.0
+Ulnar neuritis,10045380.0
+Umbilical hernia,10045458.0
+Upper gastrointestinal haemorrhage,10046274.0
+Upper limb fracture,10061394.0
+Upper respiratory tract congestion,10052252.0
+Upper-airway cough syndrome,10070488.0
+Ureterolithiasis,10077989.0
+Urethritis,10046480.0
+Urinary incontinence,10046543.0
+Urinary retention,10046555.0
+Urinary tract infection bacterial,10054088.0
+Urinary tract infection enterococcal,10046572.0
+Urinary tract infection fungal,10049059.0
+Urinary tract infection pseudomonal,10062279.0
+Urinary tract infection staphylococcal,10062280.0
+Urinary tract inflammation,10064921.0
+Urinary tract obstruction,10061574.0
+Urine abnormality,10046607.0
+Urine analysis abnormal,10062226.0
+Urine calcium increased,10050278.0
+Urine chloride increased,10052300.0
+Urine output increased,10059896.0
+Urine potassium decreased,10046662.0
+Urine potassium increased,10046663.0
+Urine sodium decreased,10046671.0
+Urine sodium increased,10046672.0
+Urobilinogen urine increased,10070479.0
+Urosepsis,10048709.0
+Urticaria papular,10046750.0
+Uterine disorder,10046779.0
+Uterine haemorrhage,10046788.0
+Uveitis,10046851.0
+Vaginal haemorrhage,10046910.0
+Varicella,10046980.0
+Varicella zoster pneumonia,10074254.0
+Varicella zoster virus infection,10075611.0
+Varices oesophageal,10056091.0
+Vascular device infection,10080714.0
+Vascular injury,10047080.0
+Vascular purpura,10047097.0
+Vascular rupture,10053649.0
+Vasculitic rash,10047111.0
+Vasculitis,10047115.0
+Venous thrombosis,10047249.0
+Ventricular dysfunction,10059056.0
+Ventricular flutter,10047294.0
+Ventricular hypertrophy,10047295.0
+Ventricular hypokinesia,10050510.0
+Vertebrobasilar artery dissection,10087672.0
+Vertebrobasilar insufficiency,10047334.0
+Vertigo CNS origin,10047343.0
+Vessel puncture site haematoma,10065902.0
+Vestibular disorder,10047386.0
+Vestibular neuronitis,10047393.0
+Viral pericarditis,10047472.0
+Viral pharyngitis,10047473.0
+Visual acuity reduced,10047531.0
+Vital capacity abnormal,10047580.0
+Vitamin D deficiency,10047626.0
+Vitreous detachment,10047650.0
+Vitreous floaters,10047654.0
+Vitreous haemorrhage,10047655.0
+Vulvovaginal dryness,10047791.0
+Vulvovaginal mycotic infection,10064899.0
+Weight decrease neonatal,10047894.0
+Weight gain poor,10047897.0
+Wheezing,10047924.0
+White blood cell count increased,10047943.0
+White blood cells urine positive,10047967.0
+Wolff-Parkinson-White syndrome,10048015.0
+Wound infection,10048038.0
+Wound infection staphylococcal,10059442.0
+Wrist fracture,10048049.0
+Xerosis,10048222.0
+Abnormal organ weight,1000000003.0
+Alanine aminotransferase abnormal,10001547.0
+Aspartate aminotransferase abnormal,10003477.0
+Basophil count abnormal,10060978.0
+Blood alkaline phosphatase abnormal,10059571.0
+Blood bilirubin abnormal,10058477.0
+Blood calcium abnormal,10005393.0
+Blood chloride abnormal,10005417.0
+Blood cholesterol abnormal,10005423.0
+Blood creatinine abnormal,10005481.0
+Blood glucose abnormal,10005554.0
+Blood phosphorus abnormal,10054823.0
+Blood potassium abnormal,10005722.0
+Blood pressure abnormal,10005728.0
+Blood sodium abnormal,10005800.0
+Blood triglycerides abnormal,10005837.0
+Congenital anomaly,10010356.0
+Decreased implantation,1000001012.0
+Electrocardiogram abnormal,10014363.0
+Electrocardiogram change,10061116.0
+Electrocardiogram QT interval abnormal,10063748.0
+Eosinophil count abnormal,10061125.0
+Feeding behaviour abnormal,1000000345.0
+Female reproductive tract disorder,10082971.0
+Fibrosis,10016642.0
+Genotoxicity,10078948.0
+Globulin abnormal,10065125.0
+Haematocrit abnormal,10049221.0
+Haemoglobin abnormal,10018879.0
+Heart rate abnormal,10019300.0
+Hepatocellular carcinoma,10073071.0
+Infertility,10021926.0
+Infertility female,10021928.0
+Infertility male,10021929.0
+Lymphocyte count abnormal,10025252.0
+Male reproductive tract disorder,10082975.0
+Maternal drugs affecting foetus,10026923.0
+Mean cell haemoglobin concentration abnormal,10067730.0
+Menstrual disorder,10027327.0
+Monocyte count abnormal,10061293.0
+Mutagenic effect,10028400.0
+Neutrophil count abnormal,10061313.0
+PCO2 abnormal,10058982.0
+Platelet count abnormal,10035526.0
+PO2 abnormal,10062087.0
+Protein total abnormal,10037012.0
+Red blood cell count abnormal,10038151.0
+Reproductive toxicity,10074268.0
+Respiratory disorder,10038683.0
+Respiratory rate abnormal,1000000765.0
+Sexual dysfunction,10040477.0
+Weight abnormal,10056814.0
+White blood cell count abnormal,10047940.0
